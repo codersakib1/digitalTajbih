@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Digital Tajbih</string>
+    <string name="_0">0</string>
+    <string name="add_one">ADD ONE</string>
+    <string name="sub_one">SUB ONE</string>
+    <string name="reset">RESET</string>
+</resources>
